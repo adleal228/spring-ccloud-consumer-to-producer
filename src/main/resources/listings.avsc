@@ -1,0 +1,7 @@
+{"namespace": "io.confluent",
+ "type": "record",
+ "name": "hobbit",
+ "fields": [
+     {"name": "message", "type": "string"}
+ ]
+}
